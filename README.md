@@ -9,6 +9,8 @@ CMake LSP Implementation.
 
 Alpha Stage, work in progress.
 
+This is a fork of `regen100/cmake-language-server`. This is not an official module. I just forked it to fix the issue with pygls being updated to version 2.0.
+
 ## Features
 - [x] Builtin command completion
 - [x] Documentation for commands and variables on hover
